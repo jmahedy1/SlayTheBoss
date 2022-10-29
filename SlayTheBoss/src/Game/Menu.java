@@ -8,7 +8,7 @@ public class Menu extends javax.swing.JFrame {
 
     public Menu() {
         System.out.println("display created");
-        // method concerning display go here
+        // methods concerning display go here
         initComponents();
         //Player player = new Player(45,50,10,false,false,5,10,0);
         endDay();
