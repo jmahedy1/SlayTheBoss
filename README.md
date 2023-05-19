@@ -2,7 +2,7 @@
 This project is for my Intro to OO Programming class. This project does not properly utilize good OO programming procedures but is functional. Check out the linked repositories where I took the next level OO programming class and was able to understand the concepts.
 
 # Usage
-Do not use this project as your own, but you are welcome to reference the code to help with creating ideas.
+Do not plagiarize these labs and assignments. You are welcome to reference the code for learning and academic purposes.
 
 # Directions
 Run the program from the Menu class.
