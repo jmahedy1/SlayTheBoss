@@ -2,6 +2,7 @@
 This project is for my Intro to OO Programming class. This project does not properly utilize good OO programming procedures but is functional. Check out the linked repositories where I took the next level OO programming class and was able to understand the concepts.
 
 Labs from next OO class: https://github.com/jmahedy1/OOApplicationDevelopment
+
 Project from next OO class: https://github.com/jmahedy1/MeetingPal
 
 # Usage
